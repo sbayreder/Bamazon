@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbayreder/Bamazon.git"
+  },
+  "author": "Scott Bayreder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbayreder/Bamazon/issues"
+  },
+  "homepage": "https://github.com/sbayreder/Bamazon#readme"
+}
